@@ -6,7 +6,7 @@ JSON Viewer for PHP
 
 ### Requirements
 
-[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.3.3-8892BF.svg?style=flat-square)](https://php.net/)
+[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.6.30-8892BF.svg?style=flat-square)](https://php.net/)
 * PHP 5.6.30 or higher.
 
 ### Install
